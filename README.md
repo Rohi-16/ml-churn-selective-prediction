@@ -1,4 +1,4 @@
-"Customer Churn Model" (https://github.com/Rohi-16/ml-churn-selective-prediction/blob/main/Model.png?raw=true)
+![Customer Churn Model] (https://github.com/Rohi-16/ml-churn-selective-prediction/blob/main/Model.png?raw=true)
 When Should an ML Model Refuse to Predict?
 
 Customer Churn Prediction Under Uncertainty
