@@ -1,12 +1,11 @@
-https://github.com/Rohi-16/ml-churn-selective-prediction/blob/main/Model.png
-
+"Customer Churn Model" (https://github.com/Rohi-16/ml-churn-selective-prediction/blob/main/Model.png?raw=true)
 When Should an ML Model Refuse to Predict?
 
 Customer Churn Prediction Under Uncertainty
 
 Can a machine learning model recognize when its predictions may be unreliable?
 
-This project explores customer churn prediction beyond accuracy by studying probability calibration and selective prediction—where a model can abstain on uncertain cases and defer them for human review.
+This project explores customer churn prediction beyond accuracy by studying probability calibration and selective prediction, where a model can abstain on uncertain cases and defer them for human review.
 
 Objectives
 
